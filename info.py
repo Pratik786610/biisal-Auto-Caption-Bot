@@ -14,7 +14,7 @@ def is_enabled(value, default):
         return default
 
 
-ADMIN = int(getenv("ADMIN", "1691590963"))
+ADMIN = int(getenv("ADMIN", "6908145919"))
 API_ID = int(getenv("API_ID", "29712643"))
 API_HASH = str(getenv("API_HASH", "159ec16a16e76a7f5e51d3c7e157e386"))
 BOT_TOKEN = str(getenv("BOT_TOKEN", "6382750813:AAHyKt-0qmD4NxnzYcRhcGRziuB2DPBB1xs"))
